@@ -5,6 +5,7 @@ Plugin URI: http://www.uri.edu
 Description: Customizations for the magazine
 Version: 1.0
 Author: John Pennypacker
+Author: Alexandra Gauss
 Author URI: 
 */
 
